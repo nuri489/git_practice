@@ -3,6 +3,9 @@
 ---
 ### 배운것
 
+- mkdir : 폴더 생성
+- cd : 이하의 디렉토리로 이동
+- touch : 파일 생성
 - git init // .git 폴더 생성
 - git add // add 뒤에 파일 또는 . 을 붙여 폴더의 모든 파일을 커밋함?
 - git commit // 커멘트를 남김?
