@@ -2,5 +2,7 @@
 
 ---
 ### 배운것
-- git add
-- git commit
+
+- git init // .git 폴더 생성
+- git add // 
+- git commit //
