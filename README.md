@@ -23,6 +23,8 @@
   >- 변경된 사항을 이력에 추가함
   >- git commit -m "ASD" 로 ASD라는 코멘트를 남길 수 있음
 
+- git log --oneline : commit 코멘트 목록을 나열함. Q를 눌러 중지해야함
+
 - git remote add origin 주소 : 원격 저장소의 주소를 저장함
 
   >-  깃허브 저장소의 주소를 저장함
@@ -65,3 +67,4 @@
   >- git branch -d A 로 A 브랜치를 삭제함. 만약 에러가 뜬다면 -D 로 바꾼다
   >- 다만 이는 로컬상의 브랜치를 삭제한 것이므로 리모트 서버 상의 브랜치로 삭제 해줘야 함
   >- git push --delete origin A 를 통해 리모트 서버 상의 브랜치도 삭제
+  >- 
