@@ -29,4 +29,4 @@
 
   > 깃허브 저장소의 주소를 저장함
 
-- git push origin master : 저장된 저장소로 변경된 사항을 전송함
+- git push origin master : 저장된 저장소의 주소로 변경된 사항을 전송함
