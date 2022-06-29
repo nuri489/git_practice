@@ -64,7 +64,8 @@
   >- git switch -c B 로 B라는 브랜치 생성과 동시에 B로 헤드를 이동 가능함
 
 - git merge A : A 브랜치를 마스터로 만듦.
-  >- git branch -d A 로 A 브랜치를 삭제함. 만약 에러가 뜬다면 -D 로 바꾼다
+  >- git branch -d A 로 A 브랜치를 삭제함. 
+  >- git branch -D A 는 merge가 되기 전에 삭제함
   >- 다만 이는 로컬상의 브랜치를 삭제한 것이므로 리모트 서버 상의 브랜치로 삭제 해줘야 함
   >- git push --delete origin A 를 통해 리모트 서버 상의 브랜치도 삭제
 
