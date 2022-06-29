@@ -20,12 +20,13 @@
 
 - git commit  : 현재 상태 저장
 
-  > 변경된 사항을 이력에 추가함
-  > git commit -m "ASD" 로 ASD라는 코멘트를 남길 수 있음
+  >- 변경된 사항을 이력에 추가함
+  >- git commit -m "ASD" 로 ASD라는 코멘트를 남길 수 있음
 
 - git remote add origin 주소 : 원격 저장소의 주소를 저장함
 
-  > 깃허브 저장소의 주소를 저장함
+  >-  깃허브 저장소의 주소를 저장함
+  >-  git pull에서 사용될 주소
 
 - git push origin master : 저장된 저장소의 주소로 변경된 사항을 전송함
 
